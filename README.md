@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently a PhD student studying and researching.
-- 🌱 Currently, I am interested in image processing.
+- 🔭 I'm currently...
+- 🌱 I'm currently...
 - 👯 Looking for collaboration...
 - 🤔 Looking for help...
 - 💬 Ask me...
@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun facts: ...
 -->
+
+- 😄 I am currently a PhD student studying and researching.
+- ⚡ Currently, I am interested in image processing.
+  <br> 
+  <br> 
+  <br> 
+  <br> 
+  <br>
+  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
