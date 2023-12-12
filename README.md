@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: ...
 -->
 
-- 😄 I am currently a PhD student studying and researching.
+- 😄 I am currently studying and researching.
 - ⚡ Currently, I am interested in image processing.
   <br> 
   <br> 
