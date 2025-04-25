@@ -24,7 +24,7 @@ He specialized in image processing and embedded, and is currently researching sy
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-
+<br>
 <br>
 🧩 Frameworks & Libraries<br>
 
@@ -36,12 +36,14 @@ He specialized in image processing and embedded, and is currently researching sy
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
+<br>
 🛠️ Tools<br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+<br>
+<br>
 
 
 <!--
