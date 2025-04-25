@@ -18,40 +18,27 @@ He specialized in image processing and embedded, and is currently researching sy
 
 <div><h2>👩🏻‍💻 Stack </h2><br>
 <div>
-🧠 언어 (Languages)<br>
-#Python
+🧠 Languages<br>
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-#c++
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-# C
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-# C#
   <img src="https://img.shields.io/badge/c#-005571?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <br>
-🧩 프레임워크 & 라이브러리 (Frameworks & Libraries)<br>
-#PyTorch
+🧩 Frameworks & Libraries<br>
+
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-#TensorFlow
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-#opencv
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
-#flask
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-#bootstrap
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-#keras
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=bootstrap&logoColor=white">
-#bootstrap
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
-🛠️ 툴 (Tools)<br>
-#mysql
+🛠️ Tools<br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-#linux
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-#github
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-#git
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
