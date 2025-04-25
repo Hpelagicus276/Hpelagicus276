@@ -16,9 +16,9 @@ He specialized in image processing and embedded, and is currently researching sy
   <a href=""/></a>
 </div>
 
-<div><h2>👩🏻‍💻 Stack </h2>
+<div><h2>👩🏻‍💻 Stack </h2><br>
 <div>
-🧠 언어 (Languages)
+🧠 언어 (Languages)<br>
 #Python
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 #c++
@@ -28,7 +28,7 @@ He specialized in image processing and embedded, and is currently researching sy
 # C#
   <img src="https://img.shields.io/badge/c#-005571?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <br>
-🧩 프레임워크 & 라이브러리 (Frameworks & Libraries)
+🧩 프레임워크 & 라이브러리 (Frameworks & Libraries)<br>
 #PyTorch
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 #TensorFlow
@@ -44,7 +44,7 @@ He specialized in image processing and embedded, and is currently researching sy
 #bootstrap
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
-🛠️ 툴 (Tools)
+🛠️ 툴 (Tools)<br>
 #mysql
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 #linux
