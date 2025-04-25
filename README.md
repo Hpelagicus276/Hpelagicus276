@@ -11,7 +11,7 @@ He specialized in image processing and embedded, and is currently researching sy
 <div><h2>🙋🏻‍♀️ Contact </h2></div>
 <div>
   <a href="https://hpelagicus276.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://dev11vll.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-57B685?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>/</a>
+  <a href="https://dev11vll.tistory.com" target="_blank"><img src="https://img.shields.io/badge/티스토리-57B685?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>/</a>
 
 </div>
 
